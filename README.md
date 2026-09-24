@@ -10,6 +10,11 @@ I bridge operational business problems and modern generative AI tooling. With a 
 
 ---
 
+### 📌 Featured Project
+- 🧅 **[Cebolão Conecta](https://github.com/Boemerisa/cebol-o-conecta)** — WhatsApp Order Automation & Logistics Platform built via AI orchestration (Lovable, Gemini, Claude, Antigravity, Supabase, Vercel).
+
+---
+
 ### 🚀 What I Do
 - **AI-Driven Product Prototyping:** Scaffolding full-stack solutions using platforms like Lovable.dev, Google Antigravity, Claude, and Gemini.
 - **LLM Alignment & Quality Assurance:** Experienced in RLHF/MiL workflows, adversarial testing (Red Teaming), and evaluating multi-turn AI dialogues for safety and accuracy.
@@ -23,8 +28,5 @@ I bridge operational business problems and modern generative AI tooling. With a 
 - **Quality & Alignment:** Model-in-the-Loop (MiL), Red Teaming, Natural Language Evaluation
 
 ---
-
-### 📌 Featured Project
-- 🧅 **[Cebolão Conecta](https://github.com/Boemerisa/cebol-o-conecta)** — WhatsApp Order Automation & Logistics Platform built via AI orchestration (Lovable, Gemini, Claude, Antigravity, Supabase, Vercel).
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/isabella-boemer) | [Email](mailto:isabellabggraca@gmail.com)
