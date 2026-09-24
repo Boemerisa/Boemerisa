@@ -10,6 +10,11 @@ Conecto problemas operacionais de negócios com as ferramentas modernas de IA ge
 
 ---
 
+### 📌 Projeto em Destaque
+- 🧅 **[Cebolão Conecta](https://github.com/Boemerisa/cebol-o-conecta)** — Plataforma de Logística & Automação de Pedidos via WhatsApp construída por orquestração de IA (Lovable, Gemini, Claude, Antigravity, Supabase, Vercel).
+
+---
+
 ### 🚀 O Que Eu Faço
 - **Prototipagem de Produtos Orientada a IA:** Estruturação de soluções full-stack utilizando plataformas como Lovable.dev, Google Antigravity, Claude e Gemini.
 - **Alinhamento & Garantia de Qualidade (QA) de LLMs:** Experiência em fluxos RLHF/MiL, testes adversários (*Red Teaming*) e avaliação de diálogos de IA em múltiplos turnos focando em segurança e precisão.
@@ -23,8 +28,5 @@ Conecto problemas operacionais de negócios com as ferramentas modernas de IA ge
 - **Qualidade & Alinhamento:** Model-in-the-Loop (MiL), Red Teaming, Avaliação de Linguagem Natural
 
 ---
-
-### 📌 Projeto em Destaque
-- 🧅 **[Cebolão Conecta](https://github.com/Boemerisa/cebol-o-conecta)** — Plataforma de Logística & Automação de Pedidos via WhatsApp construída por orquestração de IA (Lovable, Gemini, Claude, Antigravity, Supabase, Vercel).
 
 📫 **Vamos nos conectar:** [LinkedIn](https://www.linkedin.com/in/isabella-boemer) | [E-mail](mailto:isabellabggraca@gmail.com)
