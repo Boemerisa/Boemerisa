@@ -4,7 +4,7 @@
   <b>English</b> | <a href="./README.pt-BR.md">Português</a>
 </p>
 
-**AI Product Builder & LLM Evaluation Specialist**, currently based in Brazil.
+**AI Product Builder & Data Annotation Specialist**, currently based in Brazil.
 
 I bridge operational business problems and modern generative AI tooling. With a background in International Business, Data Analytics (Google-certified), and extensive hands-on experience in LLM evaluation, red teaming, and prompt engineering, I design and orchestrate full-stack prototypes and autonomous workflows without traditional code bloat.
 
